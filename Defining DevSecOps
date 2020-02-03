@@ -1,0 +1,76 @@
+Wrap security into every step of development to safely deliver product.
+
+DevSecOps is the new philosophy of completely integrating security into the DevOps process. It calls for previously unprecedented collaboration between release engineers and security teams, resulting in a ‘Security as Code’ culture. From the DevSecOps Manifesto:
+
+“By developing security as code, we will strive to create awesome products and services, provide insights directly to developers, and generally favor iteration over trying to always come up with the best answer before a deployment. We will operate like developers to make security and compliance available to be consumed as services. We will unlock and unblock new paths to help others see their ideas become a reality.”
+
+The DevSecOps movement, like DevOps itself, is aimed at bringing new, clearer thinking to processes that tend to bog down in their own complexity. It is a natural and necessary response to the bottleneck effect of older security models on modern, continuous delivery cycles, but requires new attitudes and a shuffling of old teams.
+
+What Is the ‘Sec’ in ‘DevSecOps’?
+
+SecOps, short for Security Operations, is an approach for bridging the traditional gaps between IT security and operations teams in an effort to break silo thinking and speed safe delivery. The emerging practice requires a sea change in cultures where these departments were separate, if not frequently at odds. SecOps builds bridges of shared ownership and responsibility for the secure delivery process, eliminating communications and bureaucratic barriers.
+
+
+Tools and processes are powerful, but it’s people who deliver constant security.
+
+Rugged DevOps and DevSecOps: The Shift to Continuous Security
+
+Rugged DevOps and DevSecOps may sound like the latest tech industry buzz phrases, but they are critical considerations in contemporary business. In a market where software can change and respond to customers’ needs multiple times per day, old security models do not work. Potential is lost behind fear of flaws, stifling the continuous delivery process. This cultural shift is helping organizations address security in a continuous delivery environment.
+
+In this great resource from White Hat Security, the authors outline seven habits for successfully adopting Rugged DevOps:
+
+1. Increase Trust And Transparency Between Dev, Sec, And Ops.
+2. Understand The Probability And Impact Of Specific Risks
+3. Discard Detailed Security Road Maps In Favor Of Incremental Improvements
+4. Use The Continuous Delivery Pipeline To Incrementally Improve Security Practices
+5. Standardize Third-Party Software And Then Keep Current
+6. Govern With Automated Audit Trails
+7. Test Preparedness With Security Games
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DevSecOps is a new wave in the IT industry as the majority of the companies are involving DevOps in the security system of the business proceedings. Meanwhile, DevOps is transforming its focus on shifting left to create more applications speedily and in less downtime. Many companies have adopted DevSecOps in the organization, down the line there are still some businesses that are still in a dilemma about implementing DevOps in the security pattern. As both the methodologies will only increase the workload of the teams, choosing one of them will be beneficial for generating more robust applications.
+
+I will clear your idea about both these concepts of developing practice as they are imperative mechanisms to build more reliable and secure software. If you are not sure which approach will be suitable for your organization, scroll down!
+
+DevOps- Agile and Organized Framework
+
+
+The DevOps is a framework that is a collaboration of developers and operation teams to create a more agile and streamline deployment structure. DataOps is a modern touch to the old working pattern of the IT teams where priority is given to communication than areas of specialization. This system was created to deliver services and software quicker and certain that satisfies the requirement of the customers.
+
+From the past many years, DevOps has become an efficiency machine in many organizations. Continuous testing and automation are two vital ingredients of the DevOps implementations that must be considered.
+
+The deployments that are new must be tested from the moment code and it must be written before the release of the final product. By implementing automation, one can address function and form issues quickly rather than relying on the outdated test environment management tool.
+
+Focus on the Next Big Thing - DevSecOps
+
+
+DevSecOps is introducing the concept of information security into existing decorum of the DevOps. The main objective here is to develop “security as a code” environment that emphasizes on secure development and speedy working rather than striving hard to concentrate on both the functions.
+
+The developing team must take the responsibility of delivering a secure service than depending on other teams for development and deployment services. DevSecOps blends with the ideal security services such you want to improve the monitoring, automation, and outcomes of IT deployments, you have to align the IT applications. Consider the implementations of DevSecOps to provide speedy and secure-code mentality in the organization.
+
+We hope with the above discussion, you will very well know the difference between DevOps and DevSecOps and its impact on the business.h as compliance monitoring, code analysis, vulnerability assessments and threat investigation into the common workflow of the DevOps. Results? It removes the risk of Zero-day flaws and software recalls.
+
+Similarities of DevOps and DevSecOps
+
+The DevOps and DevSecOps share the same order. They deliver exceptional outcomes as fast as possible. They also have the same agile mentality of evaluation and continuous testing. DevOps team understands that the code can be made better and with continuous analysis to discover potential improvements.
+
+Continuous monitoring and evaluation helps to know the key issues and discover emerging threats before they impact the final output. Moreover, both concepts focus on shifting left by shifting evaluation and testing closer to the developing cycle. It also helps in resolving the issue before making it live.
+
+Significant Differences
+
+
+Speed is a driving force of DevOps. Shifting processes in the left and working towards automation makes it more suitable to test new products, revising the design, and start again. The speed and security never go hand-in-hand. Moreover, the speed can be considered as a close friend of the risk. Thus, the move from DevOps to DevSecOps can be questionable as developers are more concerned about speed than removing the critical vulnerabilities.
+
+Security is essential for every business as it reduces the overall risk. The security implementation depends upon the skills of the developer. Developing and streamlining is the job of experienced developers while operation teams have to ensure that the new deployments are done according to the business requirements.
+
+Though the overlaps of outcomes and assessment are critical, the responsibilities must be assigned to security and operations teams to succeed in the business.
+
+Final Thoughts
+
+If you want to improve the monitoring, automation, and outcomes of IT deployments, you have to align the IT applications. Consider the implementations of DevSecOps to provide speedy and secure-code mentality in the organization.
+
+We hope with the above discussion, you will very well know the difference between DevOps and DevSecOps and its impact on the business.
+
